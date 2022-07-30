@@ -1,0 +1,6 @@
+@font-face {
+  font-family: "CeraProBlack";
+  src: local("CeraProBlack"),
+    url(".//fonts/Cera-Pro-Black.ttf") format("truetype");
+  font-weight: bold;
+}
